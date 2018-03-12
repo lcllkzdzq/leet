@@ -1,0 +1,5 @@
+leet_test(leet0001_test leet0001_test.cpp)
+leet_test(leet0007_test leet0007_test.cpp)
+leet_test(leet0009_test leet0009_test.cpp)
+leet_test(leet0013_test leet0013_test.cpp)
+leet_test(leet0014_test leet0014_test.cpp)
